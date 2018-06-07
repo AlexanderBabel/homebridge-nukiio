@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "request": "2.49.x",
-    "node-persist" : "2.0.x"
+    "node-persist": "2.0.x"
   },
   "homepage": "https://github.com/benzman81/homebridge-nukiio#readme",
   "author": "benzman81"
