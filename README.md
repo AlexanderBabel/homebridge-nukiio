@@ -1,4 +1,4 @@
-**NOTE: This repo will be no longe maintained! The current version of the Nuki Smart Lock supports HomeKit natively. Therefore I will not make any updates for this project.**
+**NOTE: This repo will be no longer maintained! The current version of the Nuki Smart Lock supports HomeKit natively. Therefore I will not make any updates for this project.**
 
 **NOTE: Since version 0.7.0 the configuration keys for lock and unlock actions are no longer supported, for now. Use 'usesDoorLatch' for doors with door latch.**
 
